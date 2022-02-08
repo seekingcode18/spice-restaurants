@@ -1,5 +1,5 @@
-api/node_modules
-app/node_modules
+node_modules
 .env.local
 to do.txt
 package-lock.json
+.eslintrc.json
