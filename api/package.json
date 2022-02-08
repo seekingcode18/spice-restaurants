@@ -1,0 +1,14 @@
+{
+  "name": "spice",
+  "version": "1.0.0",
+  "description": "restaurant web app for fictional chain of vegetarian Indian restaurants",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher King",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
